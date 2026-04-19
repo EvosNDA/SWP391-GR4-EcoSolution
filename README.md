@@ -1,6 +1,6 @@
 EcoSolution - Smart Waste Management & Recycling System
 EcoSolution is a comprehensive back-end platform designed to digitize and optimize urban waste recycling. The system connects citizens with local collection points through a reward-based ecosystem and manages automated logistics for premium pickup services.
-
+For front-end refer to: https://github.com/EvosNDA/SWP391-GR4-EcoSolution-Front_end
 Project Overview
 The platform addresses the inefficiency of traditional waste management by providing a structured digital interface for three primary actors: Citizens, Receivers (Station Operators), and Collectors. Key features include automated task scheduling, real-time location-based station finding, and integrated digital payments.
 
